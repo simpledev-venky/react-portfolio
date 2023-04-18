@@ -3,8 +3,8 @@ export const projects = [
       title: "React Editor",
       subtitle: "Reactjs",
       description:
-        "A simple coding editor for html,css,js made using react-js",
-      image: "/src/assets/1.png",
+        "A web application to write html,css,js and instantly see the output below made using react-js",
+      image: "https://i.ibb.co/5KMjYFH/1.png",
       link: 'https://wandel-editor.netlify.app/',
     },
     {
@@ -12,7 +12,7 @@ export const projects = [
         subtitle: "Reactjs",
         description:
           "A web Application to generate Inspirational quotes with pleasant background made using react-js",
-        image: "/src/assets/2.png",
+        image: "https://i.ibb.co/myLc8D9/2.png",
         link: 'https://wandel-quotes.netlify.app/',
       },
       {
@@ -20,7 +20,7 @@ export const projects = [
         subtitle: "React and Auth0",
         description:
       "A web app to implement dictionary for faster word searching made using react-js",
-    image: "/src/assets/3.png",
+    image: "https://i.ibb.co/LPprqLM/3.png" ,
     link: "https://wandel-dictionary128.netlify.app",
   },
   {
@@ -28,7 +28,7 @@ export const projects = [
     subtitle: "html,css,javascript",
     description:
       "A web app to generate strong password including special characters made using javascript",
-    image: '/src/assets/4.png',
+    image: "https://i.ibb.co/sKyv5kv/4.png" ,
     link: "https://simpledev-venky.github.io/js-password-generator/",
   },
 ]
@@ -39,3 +39,4 @@ export  const skills = ['Reactjs',
 'Css',
 'Git',
 'Tailwindcss']
+
