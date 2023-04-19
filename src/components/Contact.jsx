@@ -48,8 +48,7 @@ export default function Contact() {
            Hire Me
          </h2>
          <p className="leading-relaxed mb-5">
-           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum
-           suscipit officia aspernatur veritatis. Asperiores, aliquid?
+         Thanks for visiting my portfolio! 👋 If you're interested in working with me, please don't hesitate to reach out! 📧 You can contact me directly through the form on my portfolio or by emailing me at "venkateshramanadham08@gmail.com". 💻 Let's work together to bring your vision to life!
          </p>
          <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">
